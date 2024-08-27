@@ -10,6 +10,6 @@
   <marquee>  GITHUB Webhooks!!! </marquee>
 
 
-  <h1>Hello FOlks!</h1>
+  <h1>Hello Folks!</h1>
 </body>
 </html>
